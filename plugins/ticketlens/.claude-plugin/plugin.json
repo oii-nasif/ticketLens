@@ -1,0 +1,9 @@
+{
+  "name": "ticketlens",
+  "description": "Read-only Pull request review against its Jira ticket and the repo's own CLAUDE.md conventions",
+  "version": "1.0.0",
+  "author": {
+    "name": "oii-nasif"
+  },
+  "keywords": ["code-review", "pull-request", "jira"]
+}

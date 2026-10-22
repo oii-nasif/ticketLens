@@ -1,0 +1,14 @@
+{
+  "name": "ticketlens",
+  "owner": {
+    "name": "oii-nasif"
+  },
+  "plugins": [
+    {
+      "name": "ticketlens",
+      "source": "./plugins/ticketlens",
+      "description": "Read-only Pull request review against its Jira ticket and the repo's own CLAUDE.md conventions",
+      "version": "1.0.0"
+    }
+  ]
+}
