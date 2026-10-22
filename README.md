@@ -47,7 +47,7 @@ Jira host: yourcompany.atlassian.net
 ## Usage
 
 ```
-/ticketlens https://github.com/<owner>/<repo>/pull/123
+/ticketlens:code-review https://github.com/<owner>/<repo>/pull/123
 ```
 
 ## Getting better reviews in your repo
